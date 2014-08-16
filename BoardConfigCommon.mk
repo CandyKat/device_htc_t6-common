@@ -69,7 +69,7 @@ TARGET_USE_CUSTOM_LUN_FILE_PATH := /sys/devices/platform/msm_hsusb/gadget/lun%d/
 BOARD_HAVE_NEW_QC_GPS := true
 
 # Tuning
-BOARD_HARDWARE_CLASS := device/htc/t6-common/cmhw
+#BOARD_HARDWARE_CLASS := device/htc/t6-common/cmhw
 
 # Wifi
 BOARD_HAS_QCOM_WLAN := true
