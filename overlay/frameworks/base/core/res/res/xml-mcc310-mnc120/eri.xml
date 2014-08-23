@@ -18,7 +18,7 @@
 <!-- Note that IconMode can be only 0, ON or 1, FLASHING
      The icon is turned OFF if then IconIndex = 1 -->
 
-<EriFile VersionNumber="1357"
+<EriFile VersionNumber="1358"
          NumberOfEriEntries="179"
          EriFileType="1">
 
@@ -53,86 +53,86 @@
                   AlertId="0"/>
 
          <EriInfo RoamingIndicator="64"
-                  IconIndex="1"
+                  IconIndex="64"
                   IconMode="0"
-                  EriText="T-CDMA 64"
+                  EriText="Preferred System"
                   CallPromptId="0"
                   AlertId="0"/>
 
          <EriInfo RoamingIndicator="65"
                   IconIndex="65"
                   IconMode="0"
-                  EriText="T-CDMA 65"
+                  EriText="Available System"
                   CallPromptId="0"
                   AlertId="0"/>
 
          <EriInfo RoamingIndicator="66"
-                  IconIndex="1"
+                  IconIndex="66"
                   IconMode="0"
-                  EriText="T-CDMA Ext 66"
+                  EriText="Alliance Partner"
                   CallPromptId="0"
                   AlertId="0"/>
 
          <EriInfo RoamingIndicator="67"
                   IconIndex="67"
                   IconMode="0"
-                  EriText="T-CDMA Ext 67"
+                  EriText="Premium Partner"
                   CallPromptId="0"
                   AlertId="0"/>
 
          <EriInfo RoamingIndicator="68"
                   IconIndex="68"
                   IconMode="0"
-                  EriText="T-CDMA Roam 68"
+                  EriText="Full Service Functionality"
                   CallPromptId="0"
                   AlertId="0"/>
 
          <EriInfo RoamingIndicator="69"
                   IconIndex="69"
                   IconMode="0"
-                  EriText="T-CDMA Ext 69"
+                  EriText="Partial Service Functionality"
                   CallPromptId="0"
                   AlertId="0"/>
 
          <EriInfo RoamingIndicator="70"
                   IconIndex="70"
                   IconMode="0"
-                  EriText="T-CDMA Roam 70"
+                  EriText="Analog A"
                   CallPromptId="0"
                   AlertId="0"/>
 
          <EriInfo RoamingIndicator="71"
-                  IconIndex="1"
+                  IconIndex="71"
                   IconMode="0"
-                  EriText="T-CDMA Ext 71"
+                  EriText="Analog B"
                   CallPromptId="0"
                   AlertId="0"/>
 
          <EriInfo RoamingIndicator="72"
                   IconIndex="72"
                   IconMode="0"
-                  EriText="T-CDMA Ext 72"
+                  EriText="CDMA 800 A"
                   CallPromptId="0"
                   AlertId="0"/>
 
          <EriInfo RoamingIndicator="73"
                   IconIndex="73"
                   IconMode="0"
-                  EriText="T-CDMA Roam 73"
+                  EriText="CDMA 800 B"
                   CallPromptId="0"
                   AlertId="0"/>
 
          <EriInfo RoamingIndicator="74"
                   IconIndex="74"
-                  IconMode="1"
-                  EriText="T-CDMA Ext 74"
+                  IconMode="0"
+                  EriText="International Roaming"
                   CallPromptId="0"
                   AlertId="0"/>
 
          <EriInfo RoamingIndicator="75"
                   IconIndex="75"
-                  IconMode="1"
-                  EriText="T-CDMA Roam 75"
+                  IconMode="0"
+                  EriText="Extended Network"
                   CallPromptId="0"
                   AlertId="0"/>
 
